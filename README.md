@@ -39,6 +39,7 @@ I use AI as a **force multiplier**, not a black box: tooling, prompts, and pipel
 
 ### AimTrack  
 🔗 https://github.com/Marcvdc/AimTrack
+🔗 https://aimtrack.nl
 
 AI-assisted shooting logbook for sports shooters. Focused on structured session tracking, pattern recognition, and actionable feedback — without losing user control over data.
 
