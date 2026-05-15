@@ -1,95 +1,56 @@
-# 👋 Hi, I'm Marc
+# Marc van de Crommert
 
-Full-stack software developer based in the Netherlands with a strong focus on **Laravel**, **modern frontend stacks**, and **AI-assisted software development**. I build production-grade systems with an emphasis on structure, maintainability, and real-world usability.
+Full-stack developer. I build systems where **AI handles the repetition** and **humans handle the judgment**.
 
-I use AI as a **force multiplier**, not a black box: tooling, prompts, and pipelines are designed to be transparent, auditable, and secure.
-
----
-
-## 🧠 Areas of expertise
-
-- **Backend**: Laravel, PHP 8+, Filament (admin & internal tooling), REST APIs, domain-driven design
-- **Frontend**: Alpine.js, Livewire, Tailwind CSS
-- **AI & LLMs**:
-  - RAG pipelines (Qdrant)
-  - Local & remote LLMs (OpenAI, Claude, Gemini, Qwen)
-  - AI agents for analysis, logging, and decision support
-- **DevOps & Infra**:
-  - Docker / docker-compose
-  - CI/CD (GitHub Actions)
-  - Linux servers, systemd, reverse proxies
-- **Data & tooling**:
-  - PostgreSQL, Microsoft SQL Server (MSSQL)
-  - Redis
-  - Vector databases
-  - Structured logging & observability
+Based in the Netherlands. Primarily working with Laravel, but increasingly at the intersection of software architecture and applied AI.
 
 ---
 
-## 🚀 Current focus
+## What I actually believe about AI
 
-- Building **AI-powered developer and domain tools**
-- Designing **plan-first workflows** (docs → constraints → implementation)
-- Exploring **local AI hosting** with privacy and compliance in mind
-- Turning complex domains into **clear, maintainable software**
+Most AI tooling is built to replace human decisions. I think that's the wrong goal.
 
----
+Good AI-assisted software should:
+- Surface the right information at the right time
+- Make expert knowledge accessible without removing the expert
+- Keep audit trails, explain its reasoning, and hand off gracefully
 
-## 🧩 Selected projects
-
-### AimTrack  
-🔗 https://github.com/Marcvdc/AimTrack
-🔗 https://aimtrack.nl
-
-AI-assisted shooting logbook for sports shooters. Focused on structured session tracking, pattern recognition, and actionable feedback — without losing user control over data.
+I design systems with that principle at the core — whether it's a shooting analysis tool, a billing platform, or a community app for riders.
 
 ---
 
-### Internal AI Tooling
-Private/internal repositories focused on:
-- Code review automation
-- Release preparation
-- Knowledge retrieval (RAG)
-- Decision support for complex domains
+## Stack
+
+**Backend** — Laravel, PHP 8+, Filament, REST APIs  
+**Frontend** — Alpine.js, Livewire, Tailwind CSS  
+**AI/LLM** — Claude, OpenAI, Gemini, Qwen · RAG (Qdrant) · local inference  
+**Infra** — Docker, GitHub Actions, Linux, nginx, systemd  
+**Data** — PostgreSQL, MSSQL, Redis, vector databases  
 
 ---
 
-### Monthli  
-🔗 https://github.com/Marcvdc/Monthli
+## Projects
 
-A subscription and recurring-revenue platform focused on **clarity, control, and automation**.
+### AimTrack · [github](https://github.com/Marcvdc/AimTrack) · [aimtrack.nl](https://aimtrack.nl)
+AI-assisted logbook for sports shooters. Pattern recognition and session feedback — with the shooter deciding what to do with it.
 
-Monthli is designed to handle real-world business complexity:
-- Subscription lifecycles (start, pause, upgrade, cancellation)
-- Recurring invoicing and billing logic
-- Integrations with existing financial and operational systems
-- Strong internal tooling built with **Filament**
-- Emphasis on data correctness, auditability, and maintainability
+### MotoTrax · [github](https://github.com/Marcvdc/mototrax)
+Open-source community platform for motorcycle riders. GPX route sharing, maintenance tracking, social feed, and AI-generated trip suggestions. Built with Laravel 13 + Filament v5. NL/Benelux first.
 
-The platform follows a **domain-driven approach**, where financial logic is explicit, testable, and resistant to edge cases.
+### Monthli · [github](https://github.com/Marcvdc/Monthli)
+Subscription and recurring-revenue platform. Subscription lifecycles, billing logic, Filament-based tooling. Built for correctness and auditability over convenience.
 
----
-
-## 🛠️ How I work
-
-- Prefer **explicit structure** over implicit magic
-- Document before building
-- Automate what repeats
-- Keep humans in the loop
-
-I value code that someone else can understand **six months later**.
+### Internal AI Tooling *(private)*
+Code review automation, release preparation, RAG-based knowledge retrieval, decision support. All designed to be transparent and overridable.
 
 ---
 
-## 📫 Get in touch
+## How I work
 
-- GitHub: https://github.com/Marcvdc
-- Open to collaboration on:
-  - Laravel-based platforms
-  - Subscription & billing systems
-  - AI-enabled business tooling
-  - Developer productivity tools
+Document before building. Automate what repeats. Keep humans in the loop.
+
+Code should be readable by whoever inherits it six months from now — including the AI parts.
 
 ---
 
-> "Tools should reduce cognitive load, not add to it."
+📫 [github.com/Marcvdc](https://github.com/Marcvdc) · Open to collaboration on Laravel platforms, billing systems, and AI-enabled tooling.
