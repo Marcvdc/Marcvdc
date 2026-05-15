@@ -22,10 +22,12 @@ I design systems with that principle at the core, whether it's a shooting analys
 ## Stack
 
 **Backend** · Laravel, PHP 8+, Filament, REST APIs  
-**Frontend** · Alpine.js, Livewire, Tailwind CSS  
+**Frontend** · Livewire, Alpine.js, Tailwind CSS  
 **AI/LLM** · Claude, OpenAI, Gemini, Qwen · RAG (Qdrant) · local inference  
 **Infra** · Docker, GitHub Actions, Linux, nginx, systemd  
 **Data** · PostgreSQL, MSSQL, Redis, vector databases  
+
+10+ years in PHP and infrastructure. Laravel, Filament, and Docker for 2–5+ years. Working with AI tooling since 2022.
 
 ---
 
