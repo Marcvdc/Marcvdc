@@ -40,6 +40,8 @@ My main track at KJ Software: an agent-driven route from ticket to pull request,
 
 Every change runs the same route: plan, build with tests, lint, review against the conventions, pull request, then an independent adversarial check. A human merges, always.
 
+Not just a claim: the route lives in the repos, in [`CLAUDE.md`](https://github.com/Marcvdc/AimTrack/blob/main/CLAUDE.md), [`.ai/plans`](https://github.com/Marcvdc/AimTrack/tree/main/.ai/plans) and [`docs/ai-agents.md`](https://github.com/Marcvdc/AimTrack/blob/main/docs/ai-agents.md) for AimTrack, and [`.ai/core-workflow`](https://github.com/Marcvdc/mototrax/tree/master/.ai/core-workflow) for MotoTrax.
+
 Most AI tooling is built to replace human decisions. I think that is the wrong goal. Good AI-assisted software surfaces the right information at the right time, keeps an audit trail, explains its reasoning, and hands off gracefully. Expert knowledge becomes accessible without removing the expert.
 
 > Good AI tooling makes the expert faster. It never makes the expert optional.
