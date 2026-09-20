@@ -1,6 +1,6 @@
 # Marc van de Crommert
 
-Full-stack developer in Veghel, Netherlands. I build Laravel platforms, and I optimise the way software gets built: **AI agents take the repetition**, **humans keep the judgment**.
+Full-stack developer in Vorstenbosch, Netherlands. I build Laravel platforms, and I optimise the way software gets built: **AI agents take the repetition**, **humans keep the judgment**.
 
 By day I do R&D and custom development at [KJ Software](https://kjsoftware.nl). My main track is internal AI optimisation, making our own development route faster and more reliable, next to AI implementations for clients and security work. That code is private, so what you find here is the open part: side projects in Laravel and Filament, built with the same conventions.
 
